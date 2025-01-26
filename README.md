@@ -10,7 +10,7 @@ This project demonstrates my skills in full-stack development, with a PHP backen
 
 ## Setup Instructions
 - Clone this repository
-- Install dependencies for the React frontend: `npm install`
+- Install dependencies for the React frontend: `npm install` and run `npm run dev` for start React Vite server
 - Set up your PHP environment and connect to the database.
 
 ## Technologies Used
